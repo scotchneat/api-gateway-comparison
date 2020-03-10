@@ -6,6 +6,7 @@ A detailed comparison of open source api gateway solutions.
 * [Kong API Gateway](https://github.com/Kong/kong)
 * [Repose](https://www.openrepose.org/)
 * [Tyk Open Source](https://tyk.io/api-gateway/open-source/)
+* [EOM (Emerging OpenStack WSGI Middleware)](https://eom.readthedocs.io/en/latest/api/overview.html)
 
 > If I have enough time, I will include coverage of AWS API Gateway (non-OpenSource)
 
